@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.chroma/
+.pytest_cache/
+.DS_Store
+# Keep the small demo corpus in Git. Ignore large/private data files as needed.
+# data/*.pdf
